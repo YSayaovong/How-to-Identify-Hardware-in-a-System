@@ -1,12 +1,10 @@
-# How-to-Identify-Hardware-in-a-System
+# How to Identify Hardware in a System
 
-Assignment 1b:
+This repository provides a guide to identifying hardware components in a computer system, including tools and techniques for detecting and analyzing system hardware.
 
-How to identify hardware in a system
+### Features:
+- Hardware identification techniques.
+- Tools for analyzing system components.
 
-Requirements:
+This project helps users learn how to identify and analyze the hardware in a computer system.
 
-Use a command-line commands or other software tools to obtain a list of installed hardware on a computer system.
-
-In this assignment you will be creating a document that contains a list of your installed hardware. You goal is to give me the specs of your system without opening it or looking at manufacturer/O.E.M. details of your machine.
-(Note: You are not installing the VM in this assignment)
